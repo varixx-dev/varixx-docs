@@ -26,7 +26,6 @@ Varixx is een bedrijf opgericht door 4 enthousiaste jongens. Wij maken prachtige
 | Orhan | Designer | @Orhan\#3346 |
 | Jelte | Developer | @jojojelte\#0002 |
 | Karsten | Developer | @feniqx\#5352 |
-| Jarvo | Developer | @Jarvo\#0001 |
 | Wiseard | Developer | @Wiseard\#3848 |
 | Mathijs | Marketing | @Mathijs.\#5780 |
 | Luuk | Marketing | @Luuk\_w05ツ\#7800 |
